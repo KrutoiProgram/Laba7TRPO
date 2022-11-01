@@ -1,0 +1,16 @@
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\bin\Debug\Laba7TRPO.exe.config
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\bin\Debug\Laba7TRPO.exe
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\bin\Debug\Laba7TRPO.pdb
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\obj\Debug\Laba7TRPO.csproj.AssemblyReference.cache
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\obj\Debug\Laba7TRPO.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\obj\Debug\MainWindow.g.cs
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\obj\Debug\App.g.cs
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\obj\Debug\Laba7TRPO_MarkupCompile.cache
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\obj\Debug\Laba7TRPO_MarkupCompile.lref
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\obj\Debug\MainWindow.baml
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\obj\Debug\Laba7TRPO.g.resources
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\obj\Debug\Laba7TRPO.Properties.Resources.resources
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\obj\Debug\Laba7TRPO.csproj.GenerateResource.cache
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\obj\Debug\Laba7TRPO.csproj.CoreCompileInputs.cache
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\obj\Debug\Laba7TRPO.exe
+C:\Users\307-11\Desktop\WPF 7 SCRN\Laba7TRPO\obj\Debug\Laba7TRPO.pdb
